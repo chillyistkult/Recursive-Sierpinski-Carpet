@@ -1,7 +1,7 @@
 Sierpinski Carpet
 ===========================
 
-This is a simple Sierpinski triangle implementation using a recursive approach. You can tweak the depth of the recursion by editing the level value. There is also an option to colorize the different levels.
+This is a simple Sierpinski triangle implementation using an recursive approach. You can tweak the depth of the recursion by editing the level value. There is also an option to colorize the different levels.
 
 For more information visit:
 
